@@ -3,7 +3,7 @@
 
 #### Playing Sa Re Ga Ma Pa in Python !
 
-*The SARGAM has the frequencies as(in Hz)* -
+*The SARGAM has the frequencies as(in Hz)* -  
 SA - 261  
 RE - 294  
 GA - 330  
