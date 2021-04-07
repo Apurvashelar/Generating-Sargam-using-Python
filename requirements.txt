@@ -1,0 +1,4 @@
+pip install numpy as np 
+pip install matplotlib.pyplot as plt
+pip install wavio
+pip install simpleaudio
