@@ -13,6 +13,8 @@ DHA - 440
 NI - 494  
 SAN - 515
 
+**We can plot the spectrum and listen the audio by properly defining it's functions as given in the code.**
+
 ### Installation
 pip install requirements.txt
 
