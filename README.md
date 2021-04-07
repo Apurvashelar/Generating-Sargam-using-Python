@@ -13,7 +13,7 @@ DHA - 440
 NI - 494  
 SAN - 515
 
-Get timesteps for each sample, T is note duration in seconds. For CD recordings, the industry standard is to store each audio sample as a 16-bit value, at 44100 samples per second.  
+* Get timesteps for each sample, T is note duration in seconds. For CD recordings, the industry standard is to store each audio sample as a 16-bit value, at 44100 samples per second.  
 sample_rate = 44100  
 T = 0.25  
 
